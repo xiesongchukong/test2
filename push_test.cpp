@@ -5,5 +5,6 @@ void test_pushcontent(){
 }
 int main(int argc,char ** argv ){
     test_pushcontent();
+    printf("3333");
     printf("....");
 }
